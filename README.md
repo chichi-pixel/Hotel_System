@@ -1,5 +1,5 @@
 # Hotel_System
-#powerbi #datavisualisation #mssqlserver
+#powerbi #datavisualisation #mssqlserver #businessanalytics
 
 with hotels as (
 select*from dbo.['2018$']
