@@ -23,6 +23,10 @@ on meal_cost$.meal = hotels.meal
 --group by arrival_date_year,hotel
 --select*from dbo.market_segment$
 
+<img width="662" alt="HotelSystem" src="https://user-images.githubusercontent.com/60243643/232173964-a54fdb8e-679c-4f94-97b2-c665aecac655.png">
+
+
+
 
 [HotelSystem (2020).pdf](https://github.com/chichi-pixel/Hotel_System/files/11237901/HotelSystem.2020.pdf)
 
